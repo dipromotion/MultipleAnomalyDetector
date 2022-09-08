@@ -1,7 +1,7 @@
 # 概要
-以下、[動画](https://youtu.be/W1bxrTNsAOw)中の、外観検査AI装置に複数不良の同時検出と処理の高速化機能を追加するプログラムです。
+以下、動画中の、外観検査AI装置に複数不良の同時検出と処理の高速化機能を追加するプログラムです。
 
-![外観検査AI 装置の作り方②](https://user-images.githubusercontent.com/106806108/189012050-c1a06272-c888-4829-ac93-765f685114a5.png)
+![外観検査AI 装置の作り方②_mini](https://user-images.githubusercontent.com/106806108/189013637-8abc51a7-8721-4f1a-b3c0-d250850dad31.png)
 
 # 事前準備
 Python及び以下のライブラリのインストールが必要です。
