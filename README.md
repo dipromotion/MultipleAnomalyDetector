@@ -30,8 +30,8 @@ onnx==1.10.2
 
 CustomVisionポータルより作成したAIモデルをONNX形式でエクスポートして、modelフォルダの中にすべてのファイルを格納して実行してください。
 
-```
 モデルは変数modelとして以下のように読み込まれます。
+```
 model = Model("model/model.onnx")
 ```
 
